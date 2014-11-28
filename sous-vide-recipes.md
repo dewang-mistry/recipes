@@ -4,6 +4,11 @@ To know what sous vide style of cooking is and a quick introduction to it. [Go h
 
 ## Chicken
 
-## Steak
+## Beef
+
+### Steak
+
+### Burger
 
 ## Fish
+
